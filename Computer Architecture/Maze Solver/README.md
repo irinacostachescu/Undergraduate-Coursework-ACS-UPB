@@ -1,5 +1,5 @@
 # Project 2: **Maze Solver**
-
+*The purpose was to fundament the **Verilog** notions used for **sequential circuits** design*\
 This project required the development of a program which browses a **maze** to find the exit with the following assumptions:
 * The maze is represented by a 64x64 matrix
 * The cells have the values 0 (free path) or 1 (wall)

@@ -17,6 +17,6 @@ The emphasise was on the **instruction set** and the **addressing modes** that a
 
 The directory *calc_didactic* contains the code for all the listed items having suggestive names\
 The code for the implementation of the *instruction set* and the *addressing modes* can be found in the *uc.v* file\
-***Given test files***
+***Given test files:***
 * top_calc_didactic.v
 * test_calc_didactic.v

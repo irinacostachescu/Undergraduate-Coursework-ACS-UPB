@@ -10,9 +10,5 @@ The approach is based on the *Integer Division (unsigned) with remainder* algori
 In the following directory you can find:
 1. divider.v
 * the implementation of the algorithm
-2. test.data
-* the given maze *(64x64 matrix)*
-3. top.v
-*
-4. test.v
-*
+2. tester.v
+* given test file

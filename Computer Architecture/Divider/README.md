@@ -5,9 +5,9 @@ This project required the development of a program which divides two binary numb
 * They are stored using 8 bits in **Two's Complement**
 * The given data represents the numerator and the denominator and the result must contain the quotient and the remainder
 
-The approach is based on the *Integer Division (unsigned) with remainder*
+The approach is based on the *Integer Division (unsigned) with remainder* algorithm
 
-The information found in the Divider folder contains:
+In the following directory you can find:
 1. divider.v
 * the implementation of the algorithm
 2. test.data

@@ -20,6 +20,6 @@ The information found in the Maze Solver folder contains:
 2. test.data
 * the given maze *(64x64 matrix)*
 3. top.v
-*
+* given test file
 4. test.v
-* 
+* given test file

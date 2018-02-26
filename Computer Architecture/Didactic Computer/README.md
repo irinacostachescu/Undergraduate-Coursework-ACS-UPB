@@ -1,4 +1,4 @@
-# Project 3: **Didactic Computerr**
+# Project 3: **Didactic Computer**
 *The purpose was to design the architecture of a computer from scratch*\
 The project focused on:
 * Implementation of the Execution Unity *(registers, ALU)*  
@@ -16,4 +16,4 @@ The emphasise was on the **instruction set** and the **addressing modes** that a
 * Immediate Operand, etc
 
 The directory *calc_didactic* contains the code for all the listed items having suggestive names\
-The code for the *instruction set* and the *addressing modes* can be found in the *uc.v* file
+The code for the implementation of the *instruction set* and the *addressing modes* can be found in the *uc.v* file

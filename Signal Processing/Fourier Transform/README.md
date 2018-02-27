@@ -1,5 +1,5 @@
 # Project 2: **Fourier Transform**
-*The project consists of different concepts related to the **Fourier Transform***\
+*The project consists of the approaching different concepts related to the **Fourier Transform***\
 Each directory contains the file/files necessary for solving the proposed tasks:
 1. **Tema 1** required the **graphic representation** of the **Fourier Transform** of a complex sinusoidal finite signal and the necessary observation about the events that occur 
 2. **Tema 2** required the analysis of the **spectrum** of a real sinusoidal finite signal and noticing the events that occur. The influence of the phase of the signal on the spectrum was discussed too.

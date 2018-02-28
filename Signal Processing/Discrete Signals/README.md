@@ -12,4 +12,4 @@ Each directory contains the file/files necessary for solving the proposed tasks:
 4. **Tema 4** fundaments the concept of the **autocorrelation**
 5. **Tema 5** demands the use of **randn** function in order to answer the question *Is the function producing a gaussian signal?*
 
-*All the other files found in the directories are given test files used in order to solve the tasks
+*All the other files found in the directories are given test files used in order to solve the tasks*

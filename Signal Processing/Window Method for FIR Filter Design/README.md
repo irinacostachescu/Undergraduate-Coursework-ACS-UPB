@@ -1,5 +1,5 @@
 # Project 4: **Window Method for FIR Filter Design**
-*The focus of the project was on the **Window Method** and how it can be used in order to design **FIR filters***/
+*The focus of the project was on the **Window Method** and how it can be used in order to design **FIR filters***\
 Each file containing one of the titles is used to solve the given tasks as following:
 1. **Task 1** required the **graphic representation** of the elementary windows, and their **impulse response** with the purpose of analyzing the percent of similarity with an ideal **low pass filter** (*in order to mantain the spectrum of the given signal unaltered, the spectrum of the window must be similar to the finite impulse function - convolution property*) 
 2. **Task 2** uses the windows designed previously for creating FIR filters of different **orders** and **cut-off frequencies**. How the characteristic of the filters vary with the **filter order** is also approached.
